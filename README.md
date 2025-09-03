@@ -8,12 +8,12 @@
 ---
 
 ## 🛠️ Tech Stack & Tools  
-- **Languages:** Python 🐍 | Java ☕ | JavaScript ⚡ | C  
+- **Languages:** Python 🐍 | Java ☕ | JavaScript ⚡ 
 - **Web Development:** React.js ⚛️ | Flask 🐍 | Django | Node.js  
 - **Databases:** MongoDB 🍃 | MySQL 🛢️  
-- **AI/ML:** TensorFlow | PyTorch | Scikit-learn | OpenAI APIs  
+- **AI/ML:** TensorFlow | PyTorch | Scikit-learn | LangGraph  
 - **Cloud & DevOps:** AWS ☁️ | GitHub Actions | Docker 🐳  
-- **Other Tools:** VS Code | Streamlit | MATLAB | Netlify  
+- **Other Tools:** VS Code | Streamlit | Netlify  
 
 ---
 
