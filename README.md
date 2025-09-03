@@ -44,7 +44,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/tharun-narra-53b773252/)  
 - 🐦 [Twitter](https://x.com/tharunnarra10)  
 - 🐙 [GitHub](https://github.com/TharunNarra)  
-- 📧 Email: **tharun@example.com**  
+- 📧 Email: **tharunnarra43@gmail.com**  
 
 ---
 
